@@ -39,7 +39,8 @@ Ce tableau de bord est un outil essentiel pour maximiser la compréhension des c
 
 ## Vue d'ensemble
 
-![Image](https://github.com/user-attachments/assets/ae23956f-eec9-4ca0-a501-fcec8153ad8a)
+![image](https://github.com/user-attachments/assets/511644fe-dc66-40fb-88ee-01315de6634d)
+
 
 🚀 Installation et Utilisation
 
