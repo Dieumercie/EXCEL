@@ -43,8 +43,8 @@ Ce tableau de bord a été conçu pour répondre à plusieurs objectifs :
 
 ## Vue d'ensemble
 
-![Image](https://github.com/user-attachments/assets/f64746a1-d63e-4f9b-b989-18d91c78375d)
-![Image](https://github.com/user-attachments/assets/75ccb7c5-909c-47ac-99db-85798c18dc88)
+![image](https://github.com/user-attachments/assets/17b5ae76-f462-4db1-b56a-1d8c871f70a8)
+![image](https://github.com/user-attachments/assets/8e77fba3-0458-4764-a427-db8edbd8396a)
 
 🚀 Installation et Utilisation
 
